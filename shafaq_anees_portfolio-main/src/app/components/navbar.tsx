@@ -3,7 +3,7 @@
 import React, { useState } from "react";
 import { FaCloudDownloadAlt } from "react-icons/fa";
 import Image from 'next/image';
-import apple from '../../../public/assests/picture/apple-logo.svg';
+
 
 const Navbar = () => {
   // Toggle for mobile menu
